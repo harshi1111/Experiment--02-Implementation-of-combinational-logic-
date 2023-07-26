@@ -1,5 +1,5 @@
-### Name: Harshitha V
-### Reg-no:23002305
+### NAME: HARSHITHA V
+### REGISTER NO :23002305
 
 # Experiment--02-Implementation-of-combinational-logic
  
